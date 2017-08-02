@@ -13,11 +13,11 @@ output: html_document
 ## General description of the project (the concept):
 
 
-Get involved on the front line of data science research in the R language with rOpenSci (<https://ropensci.org>).  rOpenSci develops and maintains a wide ranging suite of software to access and manipulate heterogeneous scientific data sources.  Despite the rapid expansion of available data in fields such as ecology and environmental science, 
+Get involved on the front line of data science research in the R language with rOpenSci (<https://ropensci.org>).  rOpenSci develops and maintains a wide ranging suite of software to access and manipulate heterogeneous scientific data sources. 
 
 This semester, student researchers will work closely with the faculty adviser and other members of the rOpenSci team to design and implement a JSON-LD based metadata model describing the data sources and the software packages used to access them.  This system will improve search and discovery of relevant data and software.  
 
-Students will also learn and be involved in the fundamentals of software maintenance and development, including such issues as unit testing and continuous integration, interactive software documentation, etc.
+Students will also learn and be involved in the fundamentals of software maintenance and development.
 
 
 ## Specific role for the undergraduate (tasks and learning outcomes):
