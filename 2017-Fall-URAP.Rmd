@@ -1,0 +1,47 @@
+---
+title: "URAP Position"
+author: "Carl Boettiger, Scott Chamberlain"
+date: "8/2/2017"
+output: html_document
+---
+
+## Title
+
+"Data Science Software Development & Applications in Ecology and the Environment"
+
+
+## General description of the project (the concept):
+
+
+Get involved on the front line of data science research in the R language with rOpenSci (<https://ropensci.org>).  rOpenSci develops and maintains a wide ranging suite of software to access and manipulate heterogenous scientific data sources.  rOpenSci is a community-driven project that seeks to inform 
+
+## Specific role for the undergraduate (tasks and learning outcomes):
+
+
+Students will learn essential skills of data science that are not taught in classes.  
+
+and implement best practices of modern, agile software development.  
+Specific qualifications the student should have:
+
+(indicate if "required", "desirable but not essential", etc.; indicate class level or major if that is important to you)
+
+
+Prior experience with GitHub and some previous programming experience in any language are strongly recommended.  
+
+
+## Hours per week of commitment required:
+
+- [ ] 3-6 hrs
+- [ ] 6-9 hrs
+- [ ] 9-12 hrs
+- [ ] more than 12 hrs
+- [x] to be negotiated
+
+## The research site is
+
+On Campus
+
+## Website URL 1:  
+
+<https://ropensci.org>
+
